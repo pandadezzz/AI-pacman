@@ -28,3 +28,7 @@ Disadvantage:
 To improve:
 • Take into account power pellets
 • Forward model of ghost movement
+
+
+## video:
+https://www.youtube.com/watch?v=Mtvl7eVSv1s
